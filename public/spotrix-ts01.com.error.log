@@ -1,0 +1,14 @@
+[Thu Jul 02 17:27:51.955762 2020] [proxy:error] [pid 30666:tid 140261753616128] (2)No such file or directory: AH02454: FCGI: attempt to connect to Unix domain socket /opt/alt/php-fpm73/usr/var/sockets/spotrix.sock (*) failed
+[Thu Jul 02 17:27:51.955992 2020] [proxy_fcgi:error] [pid 30666:tid 140261753616128] [client 192.168.0.106:48768] AH01079: failed to make connection to backend: httpd-UDS
+[Thu Jul 02 17:27:56.661135 2020] [proxy:error] [pid 30666:tid 140261669689088] (2)No such file or directory: AH02454: FCGI: attempt to connect to Unix domain socket /opt/alt/php-fpm73/usr/var/sockets/spotrix.sock (*) failed
+[Thu Jul 02 17:27:56.661183 2020] [proxy_fcgi:error] [pid 30666:tid 140261669689088] [client 192.168.0.106:48770] AH01079: failed to make connection to backend: httpd-UDS
+[Thu Jul 02 17:27:57.161562 2020] [proxy:error] [pid 30666:tid 140261736830720] (2)No such file or directory: AH02454: FCGI: attempt to connect to Unix domain socket /opt/alt/php-fpm73/usr/var/sockets/spotrix.sock (*) failed
+[Thu Jul 02 17:27:57.161720 2020] [proxy_fcgi:error] [pid 30666:tid 140261736830720] [client 192.168.0.106:48772] AH01079: failed to make connection to backend: httpd-UDS
+[Thu Jul 02 17:27:57.484633 2020] [proxy:error] [pid 30695:tid 140261753616128] (2)No such file or directory: AH02454: FCGI: attempt to connect to Unix domain socket /opt/alt/php-fpm73/usr/var/sockets/spotrix.sock (*) failed
+[Thu Jul 02 17:27:57.484839 2020] [proxy_fcgi:error] [pid 30695:tid 140261753616128] [client 192.168.0.106:48774] AH01079: failed to make connection to backend: httpd-UDS
+[Thu Jul 02 17:27:57.691071 2020] [proxy:error] [pid 30666:tid 140261703259904] (2)No such file or directory: AH02454: FCGI: attempt to connect to Unix domain socket /opt/alt/php-fpm73/usr/var/sockets/spotrix.sock (*) failed
+[Thu Jul 02 17:27:57.691115 2020] [proxy_fcgi:error] [pid 30666:tid 140261703259904] [client 192.168.0.106:48776] AH01079: failed to make connection to backend: httpd-UDS
+[Thu Jul 02 17:27:59.399528 2020] [proxy:error] [pid 30695:tid 140261736830720] (2)No such file or directory: AH02454: FCGI: attempt to connect to Unix domain socket /opt/alt/php-fpm73/usr/var/sockets/spotrix.sock (*) failed
+[Thu Jul 02 17:27:59.399649 2020] [proxy_fcgi:error] [pid 30695:tid 140261736830720] [client 192.168.0.106:48778] AH01079: failed to make connection to backend: httpd-UDS
+[Thu Jul 02 17:27:59.700032 2020] [proxy:error] [pid 30695:tid 140261720045312] (2)No such file or directory: AH02454: FCGI: attempt to connect to Unix domain socket /opt/alt/php-fpm73/usr/var/sockets/spotrix.sock (*) failed
+[Thu Jul 02 17:27:59.700163 2020] [proxy_fcgi:error] [pid 30695:tid 140261720045312] [client 192.168.0.106:48780] AH01079: failed to make connection to backend: httpd-UDS
